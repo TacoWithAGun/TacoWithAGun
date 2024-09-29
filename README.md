@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backenddevelopment and Azure <br>🎯 Goals: Creating and managing interactive Websites and Cloudservices for businesses</p>
+<p align="left">📚 I'm currently learning Backenddevelopment and Azure <br>🎯 Creating and managing interactive Websites and Cloudservices for businesses</p>
 
 ###
 
